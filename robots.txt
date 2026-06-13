@@ -1,0 +1,5 @@
+# robots.txt for cgthumbnail.scorpion.codes
+User-agent: *
+Allow: /
+
+Sitemap: https://cgthumbnail.scorpion.codes/sitemap.xml
